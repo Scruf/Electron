@@ -1,0 +1,9 @@
+E:\HLXForn\HLXReport\HLXReport\bin\Debug\HLXReport.exe.config
+E:\HLXForn\HLXReport\HLXReport\bin\Debug\HLXReport.exe
+E:\HLXForn\HLXReport\HLXReport\bin\Debug\HLXReport.pdb
+E:\HLXForn\HLXReport\HLXReport\obj\Debug\HLXReport.Properties.Resources.resources
+E:\HLXForn\HLXReport\HLXReport\obj\Debug\HLXReport.csproj.GenerateResource.Cache
+E:\HLXForn\HLXReport\HLXReport\obj\Debug\HLXReport.exe
+E:\HLXForn\HLXReport\HLXReport\obj\Debug\HLXReport.pdb
+E:\HLXForn\HLXReport\HLXReport\obj\Debug\HLXReport.csprojResolveAssemblyReference.cache
+E:\HLXForn\HLXReport\HLXReport\obj\Debug\HLXReport.Form1.resources
