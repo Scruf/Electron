@@ -40,7 +40,8 @@ namespace HLXReport
 
         private void button1_Click(object sender, EventArgs e)
         {
-            textBox1.Text = "Hello";  
+            string start_date = textBox2.Text;
+            textBox1.Text = start_date;
         }
     }
 }
